@@ -1,0 +1,9 @@
+.main-container{
+    width: 22%;
+    background-color: black;
+}
+.container-head{
+    display: flex;
+    justify-content:space-evenly ;
+    color: white
+}
