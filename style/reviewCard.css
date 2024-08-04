@@ -1,0 +1,30 @@
+.review-card-main-container{
+    display: flex;
+    justify-items: start;
+    align-items: start;
+}
+
+.profile-image-container{
+    width: 45px;
+    height: 45px;
+    border-radius: 50%;
+    background-color: rgb(251, 230, 205);
+    margin-right:8px ;
+}
+.profile-name{
+    color: rgb(253, 253, 253);
+    font-size: 13px;
+}
+.profile-head-container{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.review-button{
+    background-color: rgb(115, 224, 244);
+    border-radius: 10px;
+    border: 0;
+}
+.review-button:hover{
+    cursor: pointer;
+}
